@@ -8,6 +8,7 @@ let fact=0;
 }
 	if (fact == 2) {
 	console.log(num, "is prime number");
+
 	} else {
 	console.log(num, "is not prime number.");
 	}
